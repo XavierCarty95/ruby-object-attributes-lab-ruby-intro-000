@@ -1,10 +1,10 @@
 
 
- def name
-   @name
+ def job
+   @job
 
- def name=(new_name)
-   @name = new_name
+ def name=(new_job)
+   @name = new_job
 
  end
 end
